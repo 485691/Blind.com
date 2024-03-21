@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+.header {
+  color: white;
+  size: 40px;
+  background: black;
+  font-family: Sans-Serif;
+}
+.navbar {
+  color: white;
+  background: black;
+  
+}
+.search {
+width: 300px;
+}
